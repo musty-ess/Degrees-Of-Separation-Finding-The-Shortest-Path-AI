@@ -18,7 +18,7 @@ The project contains the following files:
 
 ### To Run The Program:
 1. Clone the repo: `git clone https://github.com/musty-ess/Degrees-Of-Separation-Finding-The-Shortest-Path-AI.git`
-2. Run the game by executing: `$ python degrees.py small`
+2. Run the game by executing: `python degrees.py small`
 
 This will load a smaller dataset from the small directory, which contains actor-movie relationships. After loading the data, you can enter the names of two actors, and the program will compute the shortest path between them in terms of movies they've starred in.
 
