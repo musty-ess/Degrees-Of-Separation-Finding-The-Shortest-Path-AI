@@ -1,4 +1,4 @@
-# Degrees of Separation
+# Degrees Of Separation Finding The Shortest Path AI
 
 ## Overview
 
