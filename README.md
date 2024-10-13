@@ -76,4 +76,4 @@ If no path is found between the two actors, the function returns `None`.
 
 ## Conclusion
 
-This project demonstrates a practical application of search algorithms in the context of the entertainment industry, showing how actors can be connected through their roles in movies. By implementing the `shortest_path` function, the program successfully finds the shortest connection between two actors using movie data.# degrees-of-separation
+This project demonstrates a practical application of search algorithms in the context of the entertainment industry, showing how actors can be connected through their roles in movies. By implementing the `shortest_path` function, the program successfully finds the shortest connection between two actors using movie data.
